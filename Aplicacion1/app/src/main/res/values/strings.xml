@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplicacion1</string>
+    <string name="subtl">Ingrese los Datos</string>
+    <string name="action_settings">Settings</string>
+    <string name="valx1">X1</string>
+    <string name="valx2">X2</string>
+    <string name="valy1">Y1</string>
+    <string name="valy2">Y2</string>
+    <string name="p_m">PUNTO MEDIO</string>
+    <string name="pdnt">PENDIENTE</string>
+    <string name="cuadr">CUADRANTE</string>
+    <string name="digitev">Digite un Valor</string>
+</resources>
